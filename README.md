@@ -5,7 +5,7 @@ As the new Chief Data Scientist for my city's school district, I am helping the 
 As a first task, I had to analyze the district-wide standardized test results. I was given access to every student's math and reading scores, as well as various information on the schools they attend. My task is to aggregate the data to showcase obvious trends in school performance.
 
 # Main code is presnet in                                                                                                                                                                               
-https://github.com/RituNandi/pandas-challenge/PyCitySchools/PyCitySchools_starter.ipynb                                                                                                             
+PyCitySchools/PyCitySchools_starter.ipynb                                                                                                          
 
 # PyCity Schools Analysis
 
