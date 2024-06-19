@@ -4,7 +4,8 @@ As the new Chief Data Scientist for my city's school district, I am helping the 
 
 As a first task, I had to analyze the district-wide standardized test results. I was given access to every student's math and reading scores, as well as various information on the schools they attend. My task is to aggregate the data to showcase obvious trends in school performance.
 
-# Main code is presnet in https://github.com/RituNandi/pandas-challenge/PyCitySchools/PyCitySchools_starter.ipynb
+# Main code is presnet in                                                                                                                                                                               
+https://github.com/RituNandi/pandas-challenge/PyCitySchools/PyCitySchools_starter.ipynb                                                                                                             
 
 # PyCity Schools Analysis
 
@@ -16,6 +17,6 @@ As a first task, I had to analyze the district-wide standardized test results. I
 --   For a particular school, Math performances are almost same for grades 9th thru 12th. Same is applicable for Reading as well.                                                                 
                                                                                                  
 - Conclusions:                                                  
----    District has to spend more money per student for poorly performing schools
----    Large school performed poorly in overall passing %.
----    Charter School outperformed District school 
+---    District has to spend more money per student for poorly performing schools                                                                                                                           
+---    Large school performed poorly in overall passing %.                                                                                                                                                                         
+---    Charter School outperformed District school                                          
